@@ -5,4 +5,4 @@ https://kkawailab.github.io/team2022/
 
 https://kklab.mobi/team2022/
 
-## コンフリクトの処理
+## コンフリクトの処理をする
