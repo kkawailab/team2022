@@ -7,3 +7,4 @@ https://kklab.mobi/team2022/
 
 ## コンフリクト処理
 要合議
+
